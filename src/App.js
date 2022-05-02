@@ -1,9 +1,12 @@
+import {Router} from "react-router-dom";
+
 function App() {
   return (
-    <div>
-      <h1>Nguyễn Thanh Chiến</h1>
-        <div><p>Chiến</p></div>
-    </div>
+      <Router>
+          <div className="App">
+
+          </div>
+      </Router>
   );
 }
 
